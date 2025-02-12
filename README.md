@@ -1,6 +1,6 @@
 # WindsorFiles
 
-# The dataset utilized for images can be found in this paper: https://arxiv.org/abs/2407.19320 
+The dataset utilized for images can be found in this paper: https://arxiv.org/abs/2407.19320 
 
 @article{ashton2024windsor,
     title = {{WindsorML: High-Fidelity Computational Fluid Dynamics dataset for automotive aerodynamics}},
